@@ -1,2 +1,2 @@
 const food = ['apple', 'pizza', 'ear']
-console.log(food[1])
+console.log(food[2])
